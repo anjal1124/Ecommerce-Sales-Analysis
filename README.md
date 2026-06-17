@@ -1,12 +1,12 @@
-🛍️ E-Commerce Sales Analysis Dashboard
+ E-Commerce Sales Analysis Dashboard
 
-📌 Project Overview
+Project Overview =>
 
 This project analyzes E-Commerce sales data to evaluate revenue, profit, customer segments, product categories, and regional performance. The dashboard provides actionable insights to improve business growth and optimize sales strategies.
 
 ---
 
-🎯 Objective
+Objective
 
 * Analyze overall sales performance
 * Monitor profit and revenue trends
@@ -17,7 +17,7 @@ This project analyzes E-Commerce sales data to evaluate revenue, profit, custome
 
 ---
 
- 🛠 Tools & Technologies Used
+  Tools & Technologies Used
 
 * Power BI
 * SQL
@@ -27,7 +27,7 @@ This project analyzes E-Commerce sales data to evaluate revenue, profit, custome
 
 ---
 
- 📈 Key Features
+ Key Features
 
 * Sales Performance Dashboard
 * Profit Analysis
@@ -39,7 +39,7 @@ This project analyzes E-Commerce sales data to evaluate revenue, profit, custome
 
 ---
 
- 📊 Business Insights
+ Business Insights
 
 * Identified top-performing product categories
 * Analyzed customer purchasing patterns
@@ -49,27 +49,31 @@ This project analyzes E-Commerce sales data to evaluate revenue, profit, custome
 
 ---
 
-📂 Dataset
+ Dataset
 
 E-Commerce Sales Dataset
 
 ---
 
-📷 Dashboard Preview
+Dashboard Preview
 <img width="1536" height="1024" alt="image" src="https://github.com/user-attachments/assets/714e2113-ea3e-42a0-a737-ec292e3a0c9f" />
 
 ---
 
-🚀 Project Outcome
+Project Outcome =>
 
 The dashboard helps businesses understand sales performance, customer behavior, and profitability trends, enabling stakeholders to make informed decisions and improve overall business performance.
 
 ---
 
-👩‍💻 Author
+Author
 
-**Anjali Yadav**
+Anjali Yadav
 
-📧 Email: yadavanjaliyadav1124@gmail.com
-🔗 LinkedIn: https://linkedin.com/in/anjali-yadav-130628415
-💻 GitHub: https://github.com/anjal1124/Ecommerce-Sales-Analysis.git
+Email ID: yadavanjaliyadav1124@gmail.com
+
+ LinkedIn: https://linkedin.com/in/anjali-yadav-130628415
+ 
+ GitHub: https://github.com/anjal1124/Ecommerce-Sales-Analysis.git
+
+ Portfolio link:https://anjal1124.github.io/Data-analyst-portfolio/
